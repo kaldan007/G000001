@@ -1,0 +1,3 @@
+[submodule "D1"]
+	path = T1
+	url = https://github.com/kaldan007/T1.git
